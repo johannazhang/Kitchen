@@ -1,0 +1,24 @@
+.categories {
+  width: 30%;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.category {
+  background: white;
+  padding: 18px;
+  border-style: solid;
+  border-color: #EAA940;
+  border-width: 1px;
+  border-radius: 5px;
+  margin-top: 12px;
+  width: 100%;
+  font-size: 16px;
+  transition-duration: 0.3s
+}
+
+.category:hover {
+  box-shadow: 0 3px 15px 0 rgba(0,0,0,0.10);
+}

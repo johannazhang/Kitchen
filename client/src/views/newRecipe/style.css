@@ -1,0 +1,90 @@
+.recipeForm {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-color: #EAA940;
+  border-width: 1px;
+  border-radius: 10px;
+  background-image: url(paper.png);
+  margin-bottom: 50px;
+}
+
+.recipeForm h3 {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.inputs {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input[type=text], textarea, select {
+  width: 100%;
+  margin: 8px 0;
+  padding: 6px 10px;
+  box-sizing: border-box;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+}
+
+textarea {
+  resize: none;
+}
+
+label {
+  margin-top: 20px;
+  display: inline-block;
+}
+
+input[type=button] {
+  float: right;
+  margin: 5px 0 20px 0;
+}
+
+input[type=submit] {
+  margin-left: 43%;
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
+
+.recipeForm input[type=button], input[type=submit]  {
+  font-family: 'DM Sans', sans-serif;
+  text-transform: capitalize;
+  font-size: 13px;
+  background: #f0f0f0;
+  border: none;
+  padding: 5px 10px;
+}
+
+.recipeForm input[type=submit] {
+  font-size: 15px;
+}
+
+.ingredient {
+  width: 100%
+}
+
+.remove {
+  margin-left: 8px;
+  margin-right: 20px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  border: none;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.remove:hover {
+  font-weight: 600;
+}
+
+.added-ingredients {
+  margin-top: 32px;
+}
+
+.added-steps {
+  margin-top: 32px;
+}

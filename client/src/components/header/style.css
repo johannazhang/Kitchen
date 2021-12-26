@@ -1,0 +1,16 @@
+.header {
+  width: 50%;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: #EAA940;
+  font-size: 22px;
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+
+.home-button {
+  text-decoration: none;
+  color: #EAA940;
+}

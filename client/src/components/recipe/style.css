@@ -1,0 +1,31 @@
+.recipe-info {
+  width: 50%;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.info {
+  padding: 30px 50px 30px 50px;
+  border-style: solid;
+  border-color: #EAA940;
+  border-width: 1px;
+  border-radius: 15px;
+  background-image: url(paper.png);
+}
+
+.info .name {
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.back-recipe {
+  font-family: 'DM Sans', sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  background: none;
+  box-shadow: none;
+  border: none;
+  text-decoration: none;
+  margin-bottom: 10px;
+}

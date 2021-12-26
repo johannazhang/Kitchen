@@ -1,0 +1,90 @@
+.signup-container .header {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: #EAA940;
+  font-size: 20px;
+}
+
+.signup-container img {
+  width: 40px;
+  text-align: center;
+  margin: auto
+}
+
+.signup-container h1 {
+  margin-top: 20px;
+}
+
+.signup-container {
+  width: 45%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  background: white;
+  margin-top: 110px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  box-shadow: 2px 3px 20px grey;
+  margin-bottom: 100px;
+}
+
+.signup {
+  margin-bottom: 50px;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.signup-container p {
+  font-style: italic;
+  font-weight: 500;
+}
+
+.signup-container input[type=text], input[type=password] {
+  width: 100%;
+  margin: 3px 0;
+  padding: 6px 10px;
+  box-sizing: border-box;
+}
+
+.signup-container label {
+  margin-top: 12px;
+  display: inline-block;
+}
+
+.signup-container input[type=submit] {
+  margin-left: 34%;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  font-size: 15px;
+}
+
+.signup-container input[type=submit]:hover {
+  box-shadow: 0 2px 10px 0 rgba(0,0,0,0.15);
+}
+
+.signup-container .login {
+  font-style: normal;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 14.5px;
+  margin-top: 12px;
+  color: black;
+  font-weight: 500;
+}
+
+.signup p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  text-align: center;
+}
+
+.message {
+  margin-top: 0px;
+  font-size: 13px;
+  color: gray;
+}
